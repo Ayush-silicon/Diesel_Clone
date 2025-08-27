@@ -1,10 +1,7 @@
 <div align="center">
 
-<img  src="https://dibackend.hostx1.de/logo-diesel.svg"  alt="DieselIndia"  height="150">
 
-[GOO LIVE]   
-
-### _Shopping_, Website
+### _Ecommerce_, Website
 
 <div align="center">
       <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
@@ -162,17 +159,6 @@ npm run dev
 ```
 
 <div  align="center"><img  height="200px"  src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" /></div>
-
-
-## Screenshots
-
-<img src='readme_ss/1.png' width='920'>
-<img src='readme_ss/2.png' width='920'>
-<img src='readme_ss/3.png' width='920'>
-
-## Feedback
-
-If you have any feedback or suggestions please reach out to the Project-Maintainer [Akash Dey](https://github.com/akashdey23)
 
 
 # Contributors💪
